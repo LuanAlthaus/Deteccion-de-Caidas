@@ -2,6 +2,8 @@
 
 Este proyecto detecta caídas usando OpenCV, Ultralytics YOLO (pose) y MediaPipe (detección de manos para señal de auxilio).
 
+🔗 **Repositorio:** [github.com/kaz-py/Deteccion-de-Caidas](https://github.com/kaz-py/Deteccion-de-Caidas)
+
 ## Requisitos
 
 - Python 3.12 o superior
@@ -21,7 +23,7 @@ winget install --id Git.Git -e
 ```
 Cierra y abre PowerShell de nuevo, luego:
 ```powershell
-git clone https://github.com/<tu-usuario>/Deteccion-de-Caidas.git
+git clone https://github.com/kaz-py/Deteccion-de-Caidas.git
 cd Deteccion-de-Caidas
 ```
 
@@ -31,14 +33,14 @@ brew install git
 ```
 (Si no tenés Homebrew, instalalo primero desde https://brew.sh)
 ```bash
-git clone https://github.com/<tu-usuario>/Deteccion-de-Caidas.git
+git clone https://github.com/kaz-py/Deteccion-de-Caidas.git
 cd Deteccion-de-Caidas
 ```
 
 **Linux (Debian/Ubuntu):**
 ```bash
 sudo apt update && sudo apt install git -y
-git clone https://github.com/<tu-usuario>/Deteccion-de-Caidas.git
+git clone https://github.com/kaz-py/Deteccion-de-Caidas.git
 cd Deteccion-de-Caidas
 ```
 
@@ -47,7 +49,7 @@ cd Deteccion-de-Caidas
 1. Instalá [Visual Studio Code](https://code.visualstudio.com/).
 2. Instalá la extensión **Git** (ya viene integrada por defecto).
 3. Abrí VS Code → `Ctrl+Shift+P` (o `Cmd+Shift+P` en macOS) → escribí `Git: Clone`.
-4. Pegá la URL del repositorio: `https://github.com/<tu-usuario>/Deteccion-de-Caidas.git`.
+4. Pegá la URL del repositorio: `https://github.com/kaz-py/Deteccion-de-Caidas.git`.
 5. Elegí una carpeta local donde guardarlo.
 6. Cuando termine, hacé clic en **Open** para abrir el proyecto.
 7. Abrí una terminal integrada con `` Ctrl+` `` (backtick) para seguir con los comandos de abajo.
